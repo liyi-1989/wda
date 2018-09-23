@@ -1,1 +1,6 @@
-print("Hello World!")
+def ph():
+    print("Hello World!")
+    
+ph()
+
+    
